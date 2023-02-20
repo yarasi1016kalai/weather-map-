@@ -1,0 +1,24 @@
+.cardh{
+    height: 450px;
+    border: 1px solid rgb(91, 3, 3);
+  }
+  .cname{
+    height: 60px;
+  }
+  .flag{
+    height: 150px;
+    width: 85%;
+    background-color: rgb(161, 56, 56);
+  }
+  .btn{
+    width: 150px;
+    margin-left: 100px;
+    
+  }
+  .img{
+    height: 150px;
+    width: 100%;
+  }
+  .borderb{
+    border-bottom: 1px solid rgb(94, 29, 7);
+  }
